@@ -7,7 +7,7 @@
 }
 
 html, body {
-    height: 100vh;
+    height: 102vh;
     width: 100vw;
     background-color: black;
 }
@@ -28,8 +28,8 @@ section#telefone {
     position: absolute;
     top: 50%;
     left: 50%;
-
     transform: translate(-50%, -50%);
+
     height: 627px;
     width: 311px;
     background:  url('../imagens/frame-iphone.png') no-repeat;
